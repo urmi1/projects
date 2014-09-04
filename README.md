@@ -1,4 +1,4 @@
 projects
 ========
 
-include iphone examples
+Examples
